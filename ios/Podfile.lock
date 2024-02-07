@@ -1,0 +1,49 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_logs (0.0.1):
+    - Flutter
+    - ZIPFoundation
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - uni_links (0.0.1):
+    - Flutter
+  - ZIPFoundation (0.9.16)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_logs (from `.symlinks/plugins/flutter_logs/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - uni_links (from `.symlinks/plugins/uni_links/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ZIPFoundation
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_logs:
+    :path: ".symlinks/plugins/flutter_logs/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  uni_links:
+    :path: ".symlinks/plugins/uni_links/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_logs: 5d0dca26963e0f30b11a995a764744ef77d5d428
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  sqflite: 673a0e54cc04b7d6dba8d24fb8095b31c3a99eec
+  uni_links: d97da20c7701486ba192624d99bffaaffcfc298a
+  ZIPFoundation: d170fa8e270b2a32bef9dcdcabff5b8f1a5deced
+
+PODFILE CHECKSUM: 4bb0d5af7b0a7a18570b26cd09a55bf9a905f81f
+
+COCOAPODS: 1.14.3
